@@ -1,8 +1,8 @@
-<div id=”header” align=”center”> 
+<div id=”header” align= "center"> 
 <img src=https://media.giphy.com/media/3o7TKDcovELwB2DM64/giphy.gif width=”100”/>
 </div>
 <div id="badges" align="center">
-  <a href="your-Vk-URL">
+  <a href="https://vk.com/tartaletka04">
     <img src="https://img.shields.io/badge/Vk-orange?logo=vk&amp;logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
   <a href="your-Telegram-URL">
@@ -46,8 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-###:fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StrawberryTart04&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrawberryTart04)](https://github.com/rompersStomper/github-readme-stats)
 
 
