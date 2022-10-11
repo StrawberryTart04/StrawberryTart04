@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/KuNcXA0bmPdyE/giphy.gif" width="600" height="300"/>
 </div>
-:heart_eyes: About Me:  
+### :heart_eyes: About Me:  
 Я сейлор Мун <img src="https://media.giphy.com/media/XmlcYKVxTS704/giphy.gif" width="30"> И сила любви покорает тебя.
 :dizzy: Играю в гешин импакт
 :zzz: Ношу розовые очки
