@@ -5,7 +5,7 @@
   <a href="https://vk.com/tartaletka04">
     <img src="https://img.shields.io/badge/Vk-orange?logo=vk&amp;logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
-  <a href="https://t.me/@kateleo04">
+  <a href="https://t.me/kateleo04">
     <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
