@@ -22,6 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/KuNcXA0bmPdyE/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :heart_eyes: About Me:  
 Я сейлор Мун <img src="https://media.giphy.com/media/XmlcYKVxTS704/giphy.gif" width="30"> И сила любви покорает тебя.
 :dizzy: Играю в гешин импакт
@@ -45,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-:fire: My Stats :
+###:fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StrawberryTart04&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrawberryTart04)](https://github.com/rompersStomper/github-readme-stats)
 
